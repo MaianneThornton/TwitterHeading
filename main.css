@@ -1,0 +1,27 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+/* font-family: 'Pacifico', cursive; */
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+/* font-family: 'Abril Fatface', cursive; */
+
+body {
+  background-image: url(Images/pexels-james-wheeler-1487009.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  font-family: 'Pacifico', cursive;
+  color: thistle;
+}
+ 
+p {
+  font-family: 'Abril Fatface', cursive;
+  color: thistle;
+}
+
+.btn {
+  color: darkslateblue;
+  background-color: thistle;
+}
