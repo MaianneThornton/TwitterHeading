@@ -4,6 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
 /* font-family: 'Abril Fatface', cursive; */
 
+
 body {
   background-image: url(Images/pexels-james-wheeler-1487009.jpg);
   background-position: center;
@@ -14,11 +15,13 @@ body {
 h1 {
   font-family: 'Pacifico', cursive;
   color: thistle;
+
 }
  
 p {
   font-family: 'Abril Fatface', cursive;
   color: thistle;
+  line-height: 10px;
 }
 
 .btn {
